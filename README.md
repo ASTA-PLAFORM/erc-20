@@ -1,2 +1,2 @@
-# erc-20
-ASTA token on ethereum
+# ASTA token on ethereum
+
